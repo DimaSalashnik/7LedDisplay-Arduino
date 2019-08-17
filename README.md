@@ -11,4 +11,6 @@
   3. Дисплей с 8-ми сигментами, светодиодаи (включая точку) - в проекте точка использовалась для отображения цифры 6 и 9
   4. 9 перемычек (проводов)
   Использовал дисплей 5161A5 (шёл в стартовом наборе Arduino с Aliexpress)
-https://github.com/DimaSalashnik/7LedDisplay-Arduino/blob/master/%D0%A4%D0%BE%D1%82%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0%20.jpeg
+
+
+  Фото проекта - https://github.com/DimaSalashnik/7LedDisplay-Arduino/blob/master/%D0%A4%D0%BE%D1%82%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0%20.jpeg
